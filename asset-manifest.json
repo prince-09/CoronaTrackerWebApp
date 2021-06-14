@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.15d221f8.chunk.css",
-    "main.js": "/static/js/main.943324ac.chunk.js",
-    "main.js.map": "/static/js/main.943324ac.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9866c732.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9866c732.js.map",
-    "static/js/2.f22da952.chunk.js": "/static/js/2.f22da952.chunk.js",
-    "static/js/2.f22da952.chunk.js.map": "/static/js/2.f22da952.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.02f056b1ac92b03002f7b7cab69d0214.js": "/precache-manifest.02f056b1ac92b03002f7b7cab69d0214.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.15d221f8.chunk.css.map": "/static/css/main.15d221f8.chunk.css.map",
-    "static/js/2.f22da952.chunk.js.LICENSE.txt": "/static/js/2.f22da952.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/static/media/image.d7265326.png"
+    "main.css": "/CoronaTrackerWebApp/static/css/main.15d221f8.chunk.css",
+    "main.js": "/CoronaTrackerWebApp/static/js/main.943324ac.chunk.js",
+    "main.js.map": "/CoronaTrackerWebApp/static/js/main.943324ac.chunk.js.map",
+    "runtime-main.js": "/CoronaTrackerWebApp/static/js/runtime-main.209b33d1.js",
+    "runtime-main.js.map": "/CoronaTrackerWebApp/static/js/runtime-main.209b33d1.js.map",
+    "static/js/2.bc1f5b0b.chunk.js": "/CoronaTrackerWebApp/static/js/2.bc1f5b0b.chunk.js",
+    "static/js/2.bc1f5b0b.chunk.js.map": "/CoronaTrackerWebApp/static/js/2.bc1f5b0b.chunk.js.map",
+    "index.html": "/CoronaTrackerWebApp/index.html",
+    "precache-manifest.c5201ecfa6e5979740e262bd31689119.js": "/CoronaTrackerWebApp/precache-manifest.c5201ecfa6e5979740e262bd31689119.js",
+    "service-worker.js": "/CoronaTrackerWebApp/service-worker.js",
+    "static/css/main.15d221f8.chunk.css.map": "/CoronaTrackerWebApp/static/css/main.15d221f8.chunk.css.map",
+    "static/js/2.bc1f5b0b.chunk.js.LICENSE.txt": "/CoronaTrackerWebApp/static/js/2.bc1f5b0b.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/CoronaTrackerWebApp/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9866c732.js",
-    "static/js/2.f22da952.chunk.js",
+    "static/js/runtime-main.209b33d1.js",
+    "static/js/2.bc1f5b0b.chunk.js",
     "static/css/main.15d221f8.chunk.css",
     "static/js/main.943324ac.chunk.js"
   ]
